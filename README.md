@@ -12,6 +12,10 @@
 
 <img src="./icons/mirror-64.svg" width="64px">
 
+## 128
+
+<img src="./icons/mirror-128.svg" width="128px">
+
 ## 256
 
 <img src="./icons/mirror-256.svg" width="256px">
